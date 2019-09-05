@@ -1,5 +1,6 @@
-# app_single_launch.py #
+__app_single_launch.py - Ensure a Pythonista script can only be launched once from the iOS home screen__
 
+__________
 
 ## Problem statement ##
 

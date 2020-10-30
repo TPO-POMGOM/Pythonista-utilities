@@ -1,0 +1,28 @@
+Add to journal.py
+FilePicker.py
+GitHubGet.py
+KeyboardManager.py
+PopupSelect.py
+Save URL to note.py
+Settings.py
+Show shared data.py
+Sqlite3 browser/
+Synchronator/
+TableView_ExtendWithSections.py
+TableView_height_for_row.py
+button_keyboard.png
+certifi/
+chardet/
+copy_file.py
+dropbox/
+filenav/
+idna/
+launch_stash.py
+my_simplenote.py
+pythonista_startup.py
+requests/
+site-packages.sublime-project
+site-packages.sublime-workspace
+stash/
+swizzle.py
+urllib3/
